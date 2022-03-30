@@ -33,7 +33,7 @@ These data tells you more about your vascular stress, an overall cinetic of your
   The `DAT`+`PRG`+`RES` structure is expected when initialising in `InitTRT.sce`
 
 
-Don't hesitate to tell me if you have any issues with the algorithm or if you want help with to make it better 
+Don't hesitate to tell me if you have any issues with the algorithm or if you want help to make it better 
 
 Enjoy :)
 
