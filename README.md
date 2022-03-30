@@ -13,7 +13,7 @@ These data tells you more about your vascular stress, an overall cinetic of your
 	
 	HIIT_analysis file grouping : 
 	
-	* `DAT` : data extracted from PolarH10. Be careful, it has to be **xls. file**
+	* `DAT` : data extracted from PolarH10 adn convert into .csv
 	* `PRG` : Main script and function include in the script 
 	* `RES` : Graphic and results report.
 	      
