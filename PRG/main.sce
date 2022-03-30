@@ -21,7 +21,7 @@ exec(FullFileInitTRT);
 //OPEN THE FILE HIIT4 AND READ INTO THIS FILE
 //
 
-fnameIn = fullfile(DAT_PATH, "HIIT4DT2_01.csv"); // Path of the info file
+fnameIn = fullfile(DAT_PATH, "HIIT10DT2_01.csv"); // Path of the info file
 Data = csvRead(fnameIn, ";", '.' ,'double', [], [], [], 3)            // Read info file and delete the third lines in header to keep numbers only
 BPM = Data(:,3) //Extract the BPM wich correspond to the third colonn 
 Time = Data(:,1)//Extract the time in seconds wich correspond to the first colonn 
