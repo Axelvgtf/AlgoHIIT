@@ -21,13 +21,15 @@ These data tells you more about your vascular stress, an overall cinetic of your
 ## Usage
 
 * Clone or download the repository
-* On your computer, open `main.sce` then run the script with F5 or click the button with grey triangle
+* On your computer, open `HIIT.sce` then run the script with F5 or click the button with grey triangle to make an overview of your HIIT protocol in terms of BPM
+* On your computer, open `RecoveryPostHIIT.sce` then run the script with F5 or click the button with grey triangle to make an overview of your recovery after your HIIT protocol in terms of BPM.
 	  
 ## Notes 
 	  
 * Install [Scilab](https://www.scilab.org) scilab on your computer, For mac Users: click [here](https://www.utc.fr/~mottelet/scilab_for_macOS.html)
 
 * Please, convert your .xls or .xlsx data from Polar H10 in .csv and drag it in `DAT`
+* The .csv file must be with the first colum is time in seconds and the thirs colums is your BPM recorded by your Polar H10
 
 * Do not modify the names and organisation of the directories.
   The `DAT`+`PRG`+`RES` structure is expected when initialising in `InitTRT.sce`
