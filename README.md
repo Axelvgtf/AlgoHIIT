@@ -39,6 +39,7 @@ These data tells you more about your vascular stress, an overall cinetic of your
   The `DAT`+`PRG`+`RES` structure is expected when initialising in `InitTRT.sce`
   
 * You should modify in HIIT.sce at line 42 YOUR max BPM and line 43 the coefficient of your BPM zone of interest during Effort 
+* Also, you should modify the time of warm-up and effort in `HIIT.sce` (line 54,60), `GlobalCondition.sce` (line 58,64) and `RecuperationPostHIIT.sce` (line 44)
 
 
 Don't hesitate to tell me if you have any issues with the algorithm or if you want help to make it better 
