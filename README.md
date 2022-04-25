@@ -27,6 +27,19 @@ These data tells you more about your vascular stress, an overall cinetic of your
 * On your computer, open `HIIT.sce` then run the script with F5 or click the button with grey triangle to make an overview of your HIIT protocol in terms of BPM
 * On your computer, open `RecuperationPostHIIT.sce` then run the script with F5 or click the button with grey triangle to make an overview of your recuperation after your HIIT protocol in terms of BPM.
 
+## Examples of display you can have with AlgoHIIT
+
+## GlobalCondition Part
+
+![](https://github.com/Axelvgtf/AlgoHIIT/blob/main/Global%20Condition.png)
+
+## HIIT Part 
+
+![](https://github.com/Axelvgtf/AlgoHIIT/blob/main/HIIT.png)
+
+** Recuperation Part
+
+![](https://github.com/Axelvgtf/AlgoHIIT/blob/main/Recuperation.png)
 	  
 ## Notes 
 	  
